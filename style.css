@@ -39,11 +39,14 @@ nav{
     align-items: center;
 
 }
-.menu ul  {
+.menu ul a{
     list-style: none;
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
+}
+.menu ul a:hover{
+  background-color: red;
 }
 section{
 display: flex;
