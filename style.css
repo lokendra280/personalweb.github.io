@@ -37,7 +37,7 @@ nav{
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    text-transform: uppercase;
+   
 
 }
 .menu ul a{
@@ -45,7 +45,7 @@ nav{
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
-    background-color: red;
+    color: black;
 }
 .menu ul a:hover{
   background-color: red;
