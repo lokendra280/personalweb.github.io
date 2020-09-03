@@ -40,11 +40,12 @@ nav{
     text-transform: uppercase;
 
 }
-.menu ul {
+.menu ul a{
     list-style: none;
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
+    background-color: red;
 }
 .menu ul a:hover{
   background-color: red;
