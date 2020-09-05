@@ -46,6 +46,7 @@ nav{
     font-weight: bold;
     text-transform: uppercase;
     color: black;
+    text-decoration: none;
 }
 .menu ul a:hover{
   background-color: red;
